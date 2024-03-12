@@ -74,13 +74,13 @@ export function OrderDetails() {
           </TableHeader>
           <TableBody>
             <TableRow>
-              <TableCell>Pizza Pepperoni Família</TableCell>
+              <TableCell>Estojo Pastinha</TableCell>
               <TableCell className="text-right">2</TableCell>
               <TableCell className="text-right">R$ 69,90</TableCell>
               <TableCell className="text-right">R$ 139,80</TableCell>
             </TableRow>
             <TableRow>
-              <TableCell>Pizza Mussarela Família</TableCell>
+              <TableCell>Bolsa Praia</TableCell>
               <TableCell className="text-right">2</TableCell>
               <TableCell className="text-right">R$ 59,90</TableCell>
               <TableCell className="text-right">R$ 119,80</TableCell>
